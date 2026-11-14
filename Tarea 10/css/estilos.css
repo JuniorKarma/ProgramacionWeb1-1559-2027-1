@@ -8,7 +8,7 @@
         rgba(238, 130, 238, 0.25),
         rgba(128, 128, 128, 0.25)
     ),
-    url("../../imagenes/monja.jpg");
+    url("../imagenes/monja.jpg");
 
     /*Background-size (cover, contain, width(px)-height(px))
     Especifica el tamaño de la imagen de fondo*/
@@ -42,7 +42,7 @@
         rgba(0, 0, 0, 0.25),
         rgba(128, 128, 128, 0.25)
     ),
-    url("../../imagenes/scream.jpg");
+    url("../imagenes/scream.jpg");
 
     /*Background-size (cover, contain, width(px)-height(px))
     Especifica el tamaño de la imagen de fondo*/
